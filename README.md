@@ -60,7 +60,7 @@ Docker • CI/CD • Git
 <a href="https://www.linkedin.com/in/andrellopes">LinkedIn</a> • 
 <a href="https://facebook.com/andrellopes">Facebook</a> • 
 <a href="https://api.whatsapp.com/send?phone=%2B5512988543055">WhatsApp</a> • 
-<a href="mailto:allc.dev@hotmail.com">Email</a>
+<a href="mailto:allc.me@outlook.com.com">Email</a>
 
 </div>
 
