@@ -53,22 +53,6 @@ Docker • CI/CD • Git
 
 ---
 
-## Apps (Play Store)
-
-- Bible — Read, listen & study the Bible  
-- BookQuest — Biblical quiz with gamification  
-- ChessTime — Professional chess clock  
-- ExacTime — Flip-style clock  
-- Focodoro — Pomodoro with stats  
-- Habitus — Habit tracker with insights  
-- MultiCounter — Custom counters  
-- Nexus — Brain training  
-- PetLog — Pet care tracking  
-- Quietude — White noise & relax sounds  
-- Serena — Mood & anxiety journal  
-
----
-
 ## Stats
 
 <div align="center">
