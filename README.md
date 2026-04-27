@@ -56,11 +56,8 @@ Docker • CI/CD • Git
 ## Contact
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/andrellopes">LinkedIn</a> • 
-<a href="https://facebook.com/andrellopes">Facebook</a> • 
 <a href="https://api.whatsapp.com/send?phone=%2B5512988543055">WhatsApp</a> • 
-<a href="mailto:allc.me@outlook.com.com">Email</a>
+<a href="mailto:allc.studio@outlook.com.com">Email</a>
 
 </div>
 
