@@ -7,7 +7,7 @@ Fullstack Developer • Flutter • Laravel • IoT
 Coffee-driven builder of scalable apps and clean architectures.
 
 <img src="https://komarev.com/ghpvc/?username=andrellopes&label=views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/allc-me?style=social" />
+<img src="https://img.shields.io/github/followers/allc-studio?style=social" />
 <a href="https://wakatime.com/@cea0656c-6d19-4df8-86c9-3e3abee7d832">
   <img src="https://wakatime.com/badge/user/cea0656c-6d19-4df8-86c9-3e3abee7d832.svg" />
 </a>
